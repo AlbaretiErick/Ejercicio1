@@ -1,0 +1,10 @@
+jhony,hotmail,com,uio
+feo,gmail,com,rty
+hola,live,ar,qwe
+,nose,net,oihf
+sdd,,,hsbsn
+buenas,,edu,qweert
+que,tal,,asdfsf
+nose,que,escribir,123
+que,hotmail,org,mans
+hola,gmail,tardes,rey
